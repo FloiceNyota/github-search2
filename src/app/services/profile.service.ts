@@ -1,15 +1,17 @@
 import { Injectable } from '@angular/core';
-import { Http, Headers} from 'angular/http';
+import { HttpClient } from '@angular/common/http';
 import "rxjs/add/operator/map";
+
 
 @Injectable({
   providedIn: 'root'
 })
 export class ProfileService {
 
-  private username: string;
+  fromURL: string = "http://api.github.com"
+  constructor(private http:HttpClient) { 
+  
+  }
   
 
-
-  constructor(private http:Http) { }
 }
