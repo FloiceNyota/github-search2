@@ -14,7 +14,7 @@ export class UserprofileComponent implements OnInit {
   constructor(public userHttpService: UserService) {}
 
   ngOnInit() {
-    this.searchGit('ngetichnicholas');
+    this.searchGit('FloiceNyota98');
   }
   searchGit(searchTerm: string) {
     this.userHttpService.searchGits(searchTerm).then(
