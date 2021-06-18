@@ -3,7 +3,7 @@
 Floice Nyota 
 ## Description
 This is a website where users can enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A user can also look for repositories.
-![alt text]() <!--imageofsite
+![alt text]() 
 ### Prerequisites
 You need to have git installed
 You can install it with the following command in your terminal
@@ -53,4 +53,4 @@ This project is under:
 Copyright &copy; 2021 **[FloiceNyota98](https://github.com/FloiceNyota98)**
 ### Questions?
 Twitter: **[@FloiceNyota](https://twitter.com/FloiceNyota)**  
-Email: **[nicholas.ngetich@student.moringaschool.com](mailto:floice.ndiiya@student.moringaschool.com)**
+Email: **[floice.ndiiya@student.moringaschool.com](mailto:floice.ndiiya@student.moringaschool.com)**
