@@ -4,13 +4,11 @@ import { ProfileService } from './services/profile.service'
 
 import { AppComponent } from './app.component';
 import { ProfileComponent } from './components/profile/profile.component';
-import { DashboardComponent } from './dashboard/dashboard/dashboard.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ProfileComponent,
-    DashboardComponent,
     
   ],
   imports: [
